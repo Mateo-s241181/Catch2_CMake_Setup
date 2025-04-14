@@ -5,6 +5,6 @@
 int main() {
     std::cout << "Hello, World!" << std::endl;
 
-    std::cout << greet("Laalkröte");
+    std::cout << greet("Kröte");
     return 0;
 }
